@@ -1,4 +1,4 @@
-"""Custom exceptions."""
+"""6 - Custom exceptions."""
 
 
 class ZeroTotalError(Exception):
